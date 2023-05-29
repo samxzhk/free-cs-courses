@@ -52,7 +52,14 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Java Programming - University of Helsink](https://java-programming.mooc.fi/) 🟢🇨🇦
 - [Haskell Programming - University of Helsinki](https://haskell.mooc.fi/) ⚪🇨🇦
 - [C++ Institute](https://cppinstitute.org/free-c-and-c-courses) ⚪🇨🇦
-
+- [C++ Programming](https://learn.saylor.org/course/view.php?id=65) 🟢🇨🇦
+- [Python Essentials 1 - Python Institute](https://pythoninstitute.org/python-essentials-1) ⚪🇨🇦
+- [Python Essentials 2 - Python Institute](https://pythoninstitute.org/python-essentials-2) ⚪🇨🇦
+- [Python Professional 1 - Python Institue](https://pythoninstitute.org/python-professional-1) ⚪🇨🇦
+- [Testing Essentials with Python - Python Institute](https://pythoninstitute.org/python-for-testing-essentials)  ⚪🇨🇦
+- [Java SE MOOC - Oracle University](https://education.oracle.com/pt_BR/java-se-programming-i-mooc/) 🟢🇨🇦
+- [JavaScript Essentials 1 - OPENEDG](https://edube.org/study/jse1) ⚪🇨🇦
+- [JavaScript Essentials 2 - OPENEDG](https://edube.org/study/jse2) ⚪🇨🇦
 
 -----
 ##### Linux
@@ -70,6 +77,19 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 -----
 ##### Data Analysis
 - [Data Analysis with Python - University of Helsinki ](https://courses.mooc.fi/org/uh-cs/courses/dap-22) 🟢🇨🇦
+- [Data Analysis with Python - Freecodecamp](https://www.freecodecamp.org/learn/data-analysis-with-python/) 🟢🇨🇦
+- [Data Science Courses - DataQuest](https://www.dataquest.io/data-science-courses/) ⚪🇨🇦
+- [Data Analysis Essentials - Python Institute](https://pythoninstitute.org/python-for-data-analysis-essentials) ⚪🇨🇦
+- [Python for Data Science - Saylor](https://learn.saylor.org/course/view.php?id=504) 🟢🇨🇦
+
 ----
 ##### Database
 - [MongoDB](https://learn.mongodb.com/)🟢🇨🇦
+- [Banco de Dados - IFSUL](https://mundi.ifsul.edu.br/portal/banco-de-dados.php) 🟢🇧🇷
+- [Database Design Course - Freecodecamp](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=18117s) 🔴🇨🇦
+- [Database Systems - Cornell University Course part 1](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=1329s) 🔴🇨🇦
+- [Database Systems - Cornell University Course part 2](https://www.youtube.com/watch?v=lxEdaElkQhQ) 🔴🇨🇦
+- [Modelagem de Banco de Dados](https://youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) 🔴🇧🇷
+- [Modelagem de Dados](https://www.ev.org.br/cursos/modelagem-de-dados) 🟢🇧🇷
+- [Implementando Banco de Dados](https://www.ev.org.br/cursos/implementando-banco-de-dados) 🟢🇧🇷
+- [Admininstrando Banco de Dados](https://www.ev.org.br/cursos/administrando-banco-de-dados) 🟢🇧🇷
