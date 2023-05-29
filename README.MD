@@ -17,12 +17,15 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 
 -----
 **Content List**
-- [[#^442c84|Computer Networking 🌐]] 
-- [[#^e09804|Programming 💻]]
-- [[#^5e4856|Linux 🐧]]
-- [[#^7cccbb|Data Analysis 📊]]
+- [Computer Networking](#computer-networking) 🌎
+- [Programming](#programming) 💻
+- [Linux](#linux) 🐧
+- [Hardware](#hardware) 🚀
+- [Data Analysis](#data-analysis) 📈
+- [Database](#database) 📂
 ------
-**Computer Networking** ^442c84
+**
+##### Computer Networking
 - [CISCO Networking Basics](https://skillsforall.com/course/networking-basics?courseLang=en-US) 🟢🇨🇦
 - [CISCO Networking Addressing and Basic Troubleshooting](https://skillsforall.com/course/network-addressing-and-basic-troubleshooting?courseLang=en-US) 🟢🇨🇦
 - [CISCO Networking Support and Security](https://skillsforall.com/course/network-support-security?courseLang=en-US) 🟢🇨🇦
@@ -41,7 +44,7 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) 🔴🇨🇦
 - [Redes de Computadores - Univesp](https://youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) 🔴🇧🇷
 ------
-**Programming** ^e09804
+##### Programming
 - [CISCO JavaScript Essentials](https://www.netacad.com/courses/programming/javascript-essentials-1) 🟢🇨🇦
 - [CISCO Programming Essentials in C++](https://www.netacad.com/courses/programming/javascript-essentials-1) 🟢🇨🇦
 - [CISCO Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) 🟢🇨🇦
@@ -52,21 +55,21 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 
 
 -----
-**Linux** ^5e4856
+##### Linux
 - [CISCO NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) 🟢🇨🇦
 - [CISCO NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) 🟢🇨🇦
 - [Linux Journey](https://linuxjourney.com/) 🔴🇨🇦
 - [Guia Foca Linux](https://www.guiafoca.org/guiaonline/) 🔴🇧🇷
 
 -------
-**Hardware**
+##### Hardware
 - [TECHNICAL SUPPORT SERVICES AND MAINTENANCE FOR INFORMATION AGENCIES](https://ufuture.uitm.edu.my/mooc/course_detail.php?course=IMD222#) ⚪🇨🇦
 - [Manutenção de Computadores](https://mundi.ifsul.edu.br/portal/manutencao-de-computadores.php) 🟢🇧🇷
 - [CompTI A+ - Paul Browning](https://youtu.be/1CZXXNKAY5o)🔴🇨🇦
 
 -----
-**Data Analysis** ^7cccbb
+##### Data Analysis
 - [Data Analysis with Python - University of Helsinki ](https://courses.mooc.fi/org/uh-cs/courses/dap-22) 🟢🇨🇦
 ----
-**Database**
+##### Database
 - [MongoDB](https://learn.mongodb.com/)🟢🇨🇦
