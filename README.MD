@@ -14,7 +14,9 @@ But as for now, I will use symbols to simbolize whether or not the course offer 
 - ⚪: don't know yet
 
 But not to forget this is, at the moment, a personal repository hence I won't be that concerned with that matter.
+
 **side note**: coursera courses are generally for free, but the certificate isn't free, but you can always apply for financial aid if you really can't pay for it.
+
 -----
 **Content List**
 - [Computer Networking](#computer-networking) 🌎
@@ -24,7 +26,7 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Data Analysis](#data-analysis) 📈
 - [Database](#database) 📂
 ------
-**
+
 ##### Computer Networking
 - [CISCO Networking Basics](https://skillsforall.com/course/networking-basics?courseLang=en-US) 🟢🇨🇦
 - [CISCO Networking Addressing and Basic Troubleshooting](https://skillsforall.com/course/network-addressing-and-basic-troubleshooting?courseLang=en-US) 🟢🇨🇦
@@ -101,7 +103,9 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Computer Science: Algorithms, Theory and Machines](https://coursera.org/learn/cs-algorithms-theory-machines) ⚪🇨🇦
 - [Analysis of algorithms](https://coursera.org/learn/analysis-of-algorithms) ⚪🇨🇦
 - [Algorithms and Data Structures with C++](https://youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)  🔴🇨🇦 
+
 **Algorithm Specialization**
+
 - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://coursera.org/learn/algorithms-divide-conquer) 🟢🇨🇦
 - [Graph Search, Shortest Path, and Data Structures](https://coursera.org/learn/algorithms-graphs-data-structures) 🟢🇨🇦
 - [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://coursera.org/learn/algorithms-greedy) 🟢🇨🇦
