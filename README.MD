@@ -14,7 +14,7 @@ But as for now, I will use symbols to simbolize whether or not the course offer 
 - ⚪: don't know yet
 
 But not to forget this is, at the moment, a personal repository hence I won't be that concerned with that matter.
-
+**side note**: coursera courses are generally for free, but the certificate isn't free, but you can always apply for financial aid if you really can't pay for it.
 -----
 **Content List**
 - [Computer Networking](#computer-networking) 🌎
@@ -45,21 +45,22 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Redes de Computadores - Univesp](https://youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) 🔴🇧🇷
 ------
 ##### Programming
+- [C++ Institute](https://cppinstitute.org/free-c-and-c-courses) ⚪🇨🇦
+- [C++ Programming](https://learn.saylor.org/course/view.php?id=65) 🟢🇨🇦
 - [CISCO JavaScript Essentials](https://www.netacad.com/courses/programming/javascript-essentials-1) 🟢🇨🇦
 - [CISCO Programming Essentials in C++](https://www.netacad.com/courses/programming/javascript-essentials-1) 🟢🇨🇦
 - [CISCO Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) 🟢🇨🇦
-- [Python programming - University of Helsinki](https://programming-23.mooc.fi/) 🟢🇨🇦
 - [Java Programming - University of Helsink](https://java-programming.mooc.fi/) 🟢🇨🇦
 - [Haskell Programming - University of Helsinki](https://haskell.mooc.fi/) ⚪🇨🇦
-- [C++ Institute](https://cppinstitute.org/free-c-and-c-courses) ⚪🇨🇦
-- [C++ Programming](https://learn.saylor.org/course/view.php?id=65) 🟢🇨🇦
+- [Java SE MOOC - Oracle University](https://education.oracle.com/pt_BR/java-se-programming-i-mooc/) 🟢🇨🇦
+- [JavaScript Essentials 1 - OPENEDG](https://edube.org/study/jse1) ⚪🇨🇦
+- [JavaScript Essentials 2 - OPENEDG](https://edube.org/study/jse2) ⚪🇨🇦
 - [Python Essentials 1 - Python Institute](https://pythoninstitute.org/python-essentials-1) ⚪🇨🇦
 - [Python Essentials 2 - Python Institute](https://pythoninstitute.org/python-essentials-2) ⚪🇨🇦
 - [Python Professional 1 - Python Institue](https://pythoninstitute.org/python-professional-1) ⚪🇨🇦
 - [Testing Essentials with Python - Python Institute](https://pythoninstitute.org/python-for-testing-essentials)  ⚪🇨🇦
-- [Java SE MOOC - Oracle University](https://education.oracle.com/pt_BR/java-se-programming-i-mooc/) 🟢🇨🇦
-- [JavaScript Essentials 1 - OPENEDG](https://edube.org/study/jse1) ⚪🇨🇦
-- [JavaScript Essentials 2 - OPENEDG](https://edube.org/study/jse2) ⚪🇨🇦
+- [Python programming - University of Helsinki](https://programming-23.mooc.fi/) 🟢🇨🇦
+
 
 -----
 ##### Linux
@@ -93,3 +94,15 @@ But not to forget this is, at the moment, a personal repository hence I won't be
 - [Modelagem de Dados](https://www.ev.org.br/cursos/modelagem-de-dados) 🟢🇧🇷
 - [Implementando Banco de Dados](https://www.ev.org.br/cursos/implementando-banco-de-dados) 🟢🇧🇷
 - [Admininstrando Banco de Dados](https://www.ev.org.br/cursos/administrando-banco-de-dados) 🟢🇧🇷
+
+##### Algorithms
+- [Algorithms Part I](https://coursera.org/learn/algorithms-part1) 🔴🇨🇦
+- [Algorithms Part II](https://coursera.org/learn/algorithms-part2) 🔴🇨🇦
+- [Computer Science: Algorithms, Theory and Machines](https://coursera.org/learn/cs-algorithms-theory-machines) ⚪🇨🇦
+- [Analysis of algorithms](https://coursera.org/learn/analysis-of-algorithms) ⚪🇨🇦
+- [Algorithms and Data Structures with C++](https://youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)  🔴🇨🇦 
+**Algorithm Specialization**
+- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://coursera.org/learn/algorithms-divide-conquer) 🟢🇨🇦
+- [Graph Search, Shortest Path, and Data Structures](https://coursera.org/learn/algorithms-graphs-data-structures) 🟢🇨🇦
+- [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://coursera.org/learn/algorithms-greedy) 🟢🇨🇦
+- [Shortest Path Revisited, NP-Complete Problems and What To Do About Them](https://coursera.org/learn/algorithms-npcomplete) 🟢🇨🇦
